@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**darkpath2011/darkpath2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm DarkPath, I'm from China, I love programming because he has a million imaginations to make them come true.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❓ Age: 114514
+- 😲 Constellation: Aquarius
+- 🔭 I'm currently learning React / Vue.js
+- ❤️ My favorite language is Java
+- ❤️ Programming languages I'll be using are Java / Python / C++ / PHP and more.
+- ❤️ My favorite Rapper is Maxson
+- 📫 How to contact me: darkpath@xinghaowlkj.cn
+- 😄 MBTI: INFP-T
+- ⚡ I'm cocky, maybe sometimes I'll bore you, maybe people will think I'm showing off, etc., but I really don't mean to, I know everyone is special and unique and I respect everyone.
+- Control the self, strong heart, optimistic to meet the change, focus on the ability, recognize the reality, light feelings and real, with the strength of the profit, do not believe in the illusion, to get the true meaning of life.
