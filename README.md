@@ -16,7 +16,5 @@ I'm DarkPath, I'm from China, I love programming because he has a million imagin
 ![info](https://github-readme-stats.vercel.app/api?username=darkpath2011&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&theme=default_repocard)
 ![info](https://github-readme-stats.vercel.app/api/top-langs/?username=darkpath2011&layout=compact)
 
-### Github Stats
-
-![](https://raw.githubusercontent.com/darkpath2011/darkpath2011/output/github-contribution-grid-snake.svg)
+- Don't waste time on futile rescues in a world that seems hopeless. Focus on what you can do right now. Don’t dwell on why friends have cut ties with you; people have different paths, and 'those who walk different roads cannot work together.'
 
