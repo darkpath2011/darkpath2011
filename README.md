@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm DarkPath, I'm from China, I love programming because he has a million imaginations to make them come true.
+I'm DarkPath.
 
 - ❓ Age: 114514
 - 😲 Constellation: Aquarius
