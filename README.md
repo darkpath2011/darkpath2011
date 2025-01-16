@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec4f502e-8484-4cbe-b2e2-dd20759c134d)## Hello there 👋
+## Hello there 👋
 
 I'm DarkPath.
 
