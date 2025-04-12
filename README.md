@@ -12,7 +12,6 @@ Reality is far more exciting than the internet, and the internet is just a virtu
 Here’s what I work with:  
 - **Databases**: MySQL  
 - **Languages**: Java, Python, PHP  
-- **Frameworks/Tools**: *(Add any other favorites you use)*  
 
 ### 🛠️ **Development Tools**  
 - **IntelliJ IDEA**  
