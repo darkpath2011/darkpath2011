@@ -2,29 +2,37 @@
 **Hi, I’m DarkPath**  
 *Age*: 114514 | *Zodiac*: Aquarius ♒ | *MBTI*: INFP-T  
 
+---
+
 ### 💬 **My Philosophy**  
-Cherish the present, embrace life, and value every single moment.  
-Reality is far more exciting than the internet, and the internet is just a virtual outlet for emotions. The true richness lies in the real world. Being the best version of myself in reality—that's the goal. 🌱
+I cherish the present, embrace life, and value every moment.  
+Reality is far more exciting than the internet, and the internet serves as a virtual outlet for emotions. True richness lies in the real world.  
+I’m always striving to become the best version of myself, continuously learning and growing. 🌱
 
 ---
 
 ### 💻 **Technology Stack**  
-Here’s what I work with:  
+Here’s what I work with as a hobbyist:  
 - **Databases**: MySQL  
 - **Languages**: Java, Python, PHP, C++  
 - **Languages Proficiency**: Chinese (Native), English (Basic communication, maybe)  
+
+---
 
 ### 🕹️ **Gaming Preferences**  
 - **Games**:  
   - Minecraft  
   - 《我的世界》  
 
+---
+
 ### 🛠️ **Development Tools**  
 - **IntelliJ IDEA**  
 - **VSCode**  
 - **Navicat**  
 - **Reqable**  
-*(These tools help me to stay productive and efficient while coding!)*
+
+*(These tools help me stay productive while learning and improving my skills!)*
 
 ---
 
@@ -37,13 +45,15 @@ Here’s what I work with:
 
 ### 🎯 **Skills**  
 - **Full-Stack Development**  
-- **Expertise in Java**  
+- **Learning and growing in Java**  
 
 ---
 
 ### 🌍 **Personal Info**  
 - I’m a carbon-based life form on Earth.  
 - I work at **Xinghao Inc**: [GitHub - StellarsTech](https://github.com/StellarsTech)  
+
+---
 
 ### 🏁 **My Daily Routine**  
 - Wake up, fire up my computer.  
@@ -52,11 +62,19 @@ Here’s what I work with:
 
 ---
 
+### 🎯 **Current Projects**  
+I’m currently working on several exciting projects:  
+1. **LengMC Plugins**: Contributing to a series of plugins. [GitHub - LengMC](https://github.com/LengMC)  
+2. **C-PED**: Developing content for Minecraft China Edition's Spigot ecosystem. [GitHub - C-PED](https://github.com/C-PED)  
+3. **MakiNet Deployment System**: A next-generation deployment system, in collaboration with [xyber-nova](https://github.com/xyber-nova). [GitHub - MakiNet](https://github.com/MakiNet)  
+
+---
+
 ### 🎯 **Let’s Connect!**  
 If you’re on Feishu, you can use the QR code below to add me as a friend:  
 <img src="https://raw.githubusercontent.com/darkpath2011/darkpath2011/refs/heads/main/feishu.png" width="200"/>
 
-I’m always open to new opportunities, collaborations, and good conversations. 🙌
+I’m always open to learning from others, collaborating, and having good conversations. 🙌
 
 ---
 
