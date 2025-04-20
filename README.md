@@ -54,7 +54,7 @@ Here’s what I work with:
 
 ### 🎯 **Let’s Connect!**  
 If you’re on Feishu, you can use the QR code below to add me as a friend:  
-![Feishu QR Code](https://raw.githubusercontent.com/darkpath2011/darkpath2011/refs/heads/main/feishu.png)
+<img src="https://raw.githubusercontent.com/darkpath2011/darkpath2011/refs/heads/main/feishu.png" width="200"/>
 
 I’m always open to new opportunities, collaborations, and good conversations. 🙌
 
