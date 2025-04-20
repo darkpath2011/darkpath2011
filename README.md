@@ -44,7 +44,7 @@ Here’s what I work with as a hobbyist:
 ---
 
 ### 🎯 **Skills**  
-- **Full-Stack Development**  
+- **Semi-Full Stack Development**  
 - **Learning and growing in Java**  
 
 ---
