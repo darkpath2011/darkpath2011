@@ -6,7 +6,7 @@
 
 ### 💬 **My Philosophy**  
 I cherish the present, embrace life, and value every moment.  
-Reality is far more exciting than the internet, and the internet serves as a virtual outlet for emotions. True richness lies in the real world.  
+Reality is more intense and unpredictable than the internet. The internet is merely an emotional outlet, while true depth and richness lie in the real world. Over the years, my perspective has shifted. Human interactions are hard to express. The harsh truth is that reality is unforgiving. School is like a microcosm of society, where a person's worth is judged by scores, reducing human ability to mere numbers. It's a cruel cycle that often makes you question the true value of things.
 I’m always striving to become the best version of myself, continuously learning and growing. 🌱
 
 ---
