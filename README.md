@@ -17,55 +17,8 @@ Here’s what I work with as a hobbyist:
 - **Languages**: Java, Python, PHP, C++  
 - **Languages Proficiency**: Chinese (Native), English (Basic communication, maybe)  
 
----
-
-### 🕹️ **Gaming Preferences**  
-- **Games**:  
-  - Minecraft  
-  - 《我的世界》  
-
----
-
-### 🛠️ **Development Tools**  
-- **IntelliJ IDEA**  
-- **VSCode**  
-- **Navicat**  
-- **Reqable**  
-
-*(These tools help me stay productive while learning and improving my skills!)*
-
----
-
 ### 📈 **My Stats**  
 ![Stats](https://github-readme-stats.vercel.app/api?username=darkpath2011&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&theme=default_repocard)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkpath2011&layout=compact)  
 ![CodeTime](https://img.shields.io/endpoint?style=flat&color=Blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D30058%26project%3D%26in=0)
-
----
-
-### 🎯 **Skills**  
-- **Semi-Full Stack Development**  
-- **Learning and growing in Java**  
-
----
-
-### 🌍 **Personal Info**  
-- I’m a carbon-based life form on Earth.  
-- I work at **Xinghao Inc**: [GitHub - StellarsTech](https://github.com/StellarsTech)  
-
----
-
-### 🏁 **My Daily Routine**  
-- Wake up, fire up my computer.  
-- Open IntelliJ IDEA, and start the day with coding.  
-- Then, open my browser and start watching videos, all while having some fun. 😄  
-
----
-
-### 🎯 **Current Projects**  
-I’m currently working on several exciting projects:  
-1. **LengMC Plugins**: Contributing to a series of plugins. [GitHub - LengMC](https://github.com/LengMC)  
-2. **C-PED**: Developing content for Minecraft China Edition's Spigot ecosystem. [GitHub - C-PED](https://github.com/C-PED)  
-3. **MakiNet Deployment System**: A next-generation deployment system, in collaboration with [xyber-nova](https://github.com/xyber-nova). [GitHub - MakiNet](https://github.com/MakiNet)  
-
 **Let’s make today amazing! 🌟**
