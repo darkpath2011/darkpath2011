@@ -68,14 +68,4 @@ I’m currently working on several exciting projects:
 2. **C-PED**: Developing content for Minecraft China Edition's Spigot ecosystem. [GitHub - C-PED](https://github.com/C-PED)  
 3. **MakiNet Deployment System**: A next-generation deployment system, in collaboration with [xyber-nova](https://github.com/xyber-nova). [GitHub - MakiNet](https://github.com/MakiNet)  
 
----
-
-### 🎯 **Let’s Connect!**  
-If you’re on Feishu, you can use the QR code below to add me as a friend:  
-<img src="https://raw.githubusercontent.com/darkpath2011/darkpath2011/refs/heads/main/feishu.png" width="200"/>
-
-I’m always open to learning from others, collaborating, and having good conversations. 🙌
-
----
-
 **Let’s make today amazing! 🌟**
