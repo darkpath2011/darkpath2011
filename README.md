@@ -12,7 +12,7 @@ I am an idiot.
 
 ### 💻 **Technology Stack**  
 Here’s what I work with as a hobbyist:  
-- **Databases**: MySQL  
+- **Databases**: MySQL, Redis, SQLite
 - **Languages**: Java, Python, PHP, C++  
 - **Languages Proficiency**: Chinese (Native), English (Learning in progress)
 
