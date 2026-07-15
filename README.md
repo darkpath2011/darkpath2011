@@ -6,7 +6,9 @@
 
 ### 💬 **My Philosophy**
 > Good medicine tastes bitter but heals; honest advice may be hard to hear, yet helps one grow.
+
 > Those who walk different paths need not travel together, while like-minded people will meet, no matter the distance.
+
 > Many friends are companions for only part of the journey. As our paths diverge across mountains and seas, we'll meet those who truly share our direction further ahead.
 
 ---
