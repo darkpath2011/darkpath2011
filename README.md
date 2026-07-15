@@ -1,6 +1,6 @@
 ## 🌟 **Welcome to My World!** 🌟  
 **Hi, I’m DarkPath**  
-*Age*: 114514 | *Zodiac*: Aquarius ♒ | *MBTI*: [INFP-T]([https://www.16personalities.com/ch/%E6%A1%A3%E6%A1%88](https://www.16personalities.com/ch/档案/34e5fc8953097))  
+*Age*: 114514 | *Zodiac*: Aquarius ♒ | *MBTI*: [INFP-T](https://www.16personalities.com/ch/档案/34e5fc8953097)
 
 ---
 
